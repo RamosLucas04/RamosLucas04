@@ -1,16 +1,19 @@
-## Hi there 👋
+olá seja bem vindo ao meu perfil
 
-<!--
-**RamosLucas04/RamosLucas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** meu nome é Lucas**
 
-Here are some ideas to get you started:
+estou estudando na [alura](https://www.alura.com.br/?srsltid=AfmBOoq5acb9O7075x8GRFb0wRyycd5SblLtEz0Q1_jvxhNj0IyNipZE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+gosto de cortar cabelo
+
+tenho 15 anos
+
+eu gosto muito de andar de bicicleta e de moto
+
+gosto bastante de ouvir música no meu tempo livre
+
+eu pretendo fazer faculdade de biologia, comprar uma moto 0km e uma casa própria na praia e ter uma familia unida e feliz
+
+![](https://media.tenor.com/qkafozquWHgAAAAM/weed-noweed.gif)
+
+![](https://media.tenor.com/WtwSCtQFfRkAAAAM/mc-hariel-hariel.gif)
